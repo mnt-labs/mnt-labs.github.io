@@ -1,0 +1,9 @@
+title: MNT Labs
+description: Documentation, privacy policies and support for apps by MNT Labs.
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude: [README.md, LICENSE]
