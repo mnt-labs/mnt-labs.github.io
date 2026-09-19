@@ -88,4 +88,4 @@ itself, and would be announced in the app's release notes before it ships.
 
 ## Contact
 
-See [Support](../support.md).
+MNT Labs, support@mnt-labs.com. See [Support](../support.md).
