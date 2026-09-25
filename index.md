@@ -9,6 +9,7 @@ terms for each app, and how to reach us.
 | App | Documentation | Privacy | Terms |
 |---|---|---|---|
 | Change History for Jira — Filter, Report & Export | [Docs](change-record/) | [Privacy policy](change-record/privacy.md) | [Terms](change-record/terms.md) |
+| Renewal & Review Dates for Confluence | [Docs](renewal-dates/) | [Privacy policy](renewal-dates/privacy.md) | [Terms](renewal-dates/terms.md) |
 
 ## Support
 
