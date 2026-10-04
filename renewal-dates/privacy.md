@@ -33,8 +33,10 @@ Atlassian account ID, the email address they typed, and their own notice
 periods.
 
 **A record of what was sent**: which date, on which day, through which
-channel, and to which address. This is what answers "was anyone actually
-told", which is the question that follows a missed renewal.
+channel, and which Atlassian account it went to. This is what answers "was
+anyone actually told", which is the question that follows a missed renewal.
+It records the account id rather than the address, so an email address is
+held in one place only: the subscription the person created.
 
 **The app's own environment identifier**, so a reminder can link back to the
 page that turns it off.
